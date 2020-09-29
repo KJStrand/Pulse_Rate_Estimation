@@ -1,5 +1,4 @@
-# Pulse_Rate_Estimation
-Motion Compensated Pulse Rate Estimation
+# Motion Compensated Pulse Rate Estimation
 
 **Summary**
 
