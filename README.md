@@ -1,5 +1,7 @@
 # Motion Compensated Pulse Rate Estimation
 
+![](PPG_ACC_plots.PNG)
+
 **Summary**
 
 This repository includes code for analyzing wrist-worn PPG signal data and estimating a pulse rate while including data from a three-axis accelerometer. The algorithm is design to detect the correct pulse rate in the presence of severe movement artifacts.
