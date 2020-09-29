@@ -4,7 +4,9 @@
 
 **Summary**
 
-This repository includes code for analyzing wrist-worn PPG signal data and estimating a pulse rate while including data from a three-axis accelerometer. The algorithm is design to detect the correct pulse rate in the presence of severe movement artifacts.
+This repository includes two python notebooks:
+- *pulse_rate.ipynb*: Python code for analyzing wrist-worn PPG signal data and estimating a pulse rate while including data from a three-axis accelerometer. The algorithm is design to detect the correct pulse rate in the presence of severe movement artifacts.
+- *clinical_application*.ipynb: Heart rate trend investigation using CAST dataset.
 
 Project completed as part of Udacity AI for Healthcare course (2020).
 
